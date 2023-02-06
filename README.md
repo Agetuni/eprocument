@@ -57,8 +57,8 @@ In order to run this project you need .net 6 please check the version using the 
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/eprocument/evisa.git
-  git clone https://github.com/eprocument/evisa.git
+  git clone https://github.com/agetuni/eprocument.git
+  git clone https://github.com/agetuni/eprocument.git
 ```
 
 
