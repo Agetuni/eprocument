@@ -4,7 +4,7 @@
 
 **[e-Procurement API]**  Ethiopian Airlines Group's e-procurement system automates the manual process such as creating purchase orders and sending invoices. This can help to reduce errors and increase efficiency. Another important feature of this system is the ability to easily access and manage supplier information. This includes information such as contact details, pricing, and delivery times. The system can also help full to create and manage purchase orders, track deliveries, and generate reports. The System increased transparency. By using electronic means to purchase goods and services, Ethiopian Airlines can more easily track and monitor the purchasing process. This can help to identify any issues or problems that may arise and take steps to address them.
 
-<a href="https://github.com/Agetuni/PatientInformationFrontend">Click here to see the Front-END project</a>
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
